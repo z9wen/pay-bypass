@@ -1,0 +1,2 @@
+# pay-bypass
+chrome bypass
